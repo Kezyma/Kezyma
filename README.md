@@ -1,6 +1,6 @@
 ### [Mod Organizer Plugins](https://github.com/Kezyma/ModOrganizer-Plugins)
 - [Root Builder](https://kezyma.github.io/?p=rootbuilder)
-- [Plugin Finder](https://www.nexusmods.com/skyrimspecialedition/mods/59869)
+- [Plugin Finder](https://kezyma.github.io/?p=pluginfinder)
 - [Reinstaller](https://www.nexusmods.com/skyrimspecialedition/mods/59292)
 - [Shortcutter](https://www.nexusmods.com/skyrimspecialedition/mods/59827)
 
