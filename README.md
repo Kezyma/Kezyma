@@ -1,8 +1,8 @@
 ### [Mod Organizer Plugins](https://github.com/Kezyma/ModOrganizer-Plugins)
 - [Root Builder](https://kezyma.github.io/?p=rootbuilder)
 - [Plugin Finder](https://kezyma.github.io/?p=pluginfinder)
-- [Reinstaller](https://www.nexusmods.com/skyrimspecialedition/mods/59292)
-- [Shortcutter](https://www.nexusmods.com/skyrimspecialedition/mods/59827)
+- [Reinstaller](https://kezyma.github.io/?p=reinstaller)
+- [Shortcutter](https://kezyma.github.io/?p=shortcutter)
 
 ### [Bethesda Plugins](https://github.com/Kezyma/Bethesda-Plugins)
 - [Tundra Homestead Landscape Fix](https://www.nexusmods.com/skyrimspecialedition/mods/16978)
