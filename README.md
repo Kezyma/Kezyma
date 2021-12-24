@@ -3,6 +3,8 @@
 - [Plugin Finder](https://kezyma.github.io/?p=pluginfinder)
 - [Reinstaller](https://kezyma.github.io/?p=reinstaller)
 - [Shortcutter](https://kezyma.github.io/?p=shortcutter)
+- [Curation Club](https://kezyma.github.io/?p=curationclub)
+- [Profile Sync](https://kezyma.github.io/?p=profilesync)
 
 ### [Bethesda Plugins](https://github.com/Kezyma/Bethesda-Plugins)
 - [Tundra Homestead Landscape Fix](https://www.nexusmods.com/skyrimspecialedition/mods/16978)
