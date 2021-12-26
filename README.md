@@ -8,6 +8,7 @@
 
 ### [Bethesda Plugins](https://github.com/Kezyma/Bethesda-Plugins)
 - [Tundra Homestead Landscape Fix](https://www.nexusmods.com/skyrimspecialedition/mods/16978)
+- [Bloodchill Manor Landscape Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60791)
 - [Open Cities Classic Flag Remover](https://www.nexusmods.com/oblivion/mods/51080)
 - [Myar Aranath English Translation Race Fix](https://www.nexusmods.com/morrowind/mods/49823)
 
