@@ -45,8 +45,3 @@
     <img src="https://kezyma.github.io/img/pluginfinder/ui-patreon.png" width="64" height="64" />
   </a>
 </p>
-
-a {
- border: none !important;
-}
-
