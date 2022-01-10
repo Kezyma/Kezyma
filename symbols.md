@@ -15,7 +15,7 @@
 |νₜ|Tau Neutrino|v̄ₜ|Tau Antineutrino|½|0|<15.5|
 |g|Gluon|||1|0|0|
 |γ|Photon|||1|0|0|
-|W⁺|W Boson|W⁻|W Boson|1|-1|80.385±0.015|
+|W⁺|W Boson|W⁻|W Antiboson|1|-1|80.385±0.015|
 |Z⁰|Z Boson|||1|0|91.1875±0.0021|
 |H|Higgs Boson|||0|0|125.09±0.24|
 |G|Graviton*|||2|0|0|
