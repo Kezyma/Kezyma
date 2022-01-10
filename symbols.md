@@ -1,5 +1,5 @@
 
-|Symbol|Particle|Symbol|Antiparticle|Spin|Charge|Mass (MeV/c²)|
+|Symbol|Particle|Symbol|Antiparticle|Spin|Charge (e)|Mass (MeV/c²)|
 |------|--------|------|------------|----|------|-------------|
 |u|Up Quark|ū|Up Antiquark|½|+⅔|2.2|2.2±⁰⋅⁶₀.₄|
 |d|Down Quark|d̄|Down Antiquark|½|-⅓|4.6±⁰⋅⁵₀.₄|
@@ -21,3 +21,8 @@
 |G|Graviton*|||2|0|0|
 
  _*Hypothetical_
+
+Notes
+- Subscript μ and τ not currently available, symbols use u and t subscript as substitutes.
+- Tolerance values where + and - differ are displayed as best they can be. 
+- All information sourced from https://en.wikipedia.org/wiki/List_of_particles
