@@ -18,11 +18,10 @@
 |W⁺|W Boson|W⁻|W Antiboson|1|-1|80.385±0.015|
 |Z⁰|Z Boson|||1|0|91.1875±0.0021|
 |H|Higgs Boson|||0|0|125.09±0.24|
-|G|Graviton*|||2|0|0|
-
- _*Hypothetical_
+|G|Graviton|||2|0|0|
 
 Notes
 - Subscript μ and τ not currently available, symbols use u and t subscript as substitutes.
 - Tolerance values where + and - differ are displayed as best they can be. 
 - All information sourced from https://en.wikipedia.org/wiki/List_of_particles
+- Graviton is entirely hypothetical.
