@@ -9,7 +9,7 @@
 |b|Bottom Quark|b̄|Bottom Antiquark|½|-⅓|4,180±⁴⁰₃₀|
 |e⁻|Electron|e⁺|Positron|½|-1|0.5109989461±0.0000000031|
 |νₑ|Electron Neutrino|v̄ₑ|Electron Antineutrino|½|0|<0.0000022|
-|μ⁻|Muno|μ⁺|Antimuon|½|-1|105.6583745±0.0000024|
+|μ⁻|Muon|μ⁺|Antimuon|½|-1|105.6583745±0.0000024|
 |νᵤ|Muon Neutrino|v̄ᵤ|Muon Antineutrino|½|0|<0.170|
 |τ⁻|Tau|τ⁺|Antitau|½|-1|1,776.86±0.12|
 |νₜ|Tau Neutrino|v̄ₜ|Tau Antineutrino|½|0|<15.5|
