@@ -20,6 +20,9 @@
   <a href="https://www.nexusmods.com/morrowind/mods/48987">
     <img src="https://raw.githubusercontent.com/Kezyma/kezyma.github.io/main/img/uiremastered/thumbnail.jpg" width="175" />
   </a>
+  <a href="https://www.nexusmods.com/morrowind/mods/52279">
+    <img src="https://raw.githubusercontent.com/Kezyma/kezyma.github.io/main/img/voicesofvvardenfell/thumbnail.jpg" width="175" />
+  </a>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/16978">
     <img src="https://raw.githubusercontent.com/Kezyma/kezyma.github.io/main/img/tundrahomestead/thumbnail.jpg" width="175" />
   </a>
