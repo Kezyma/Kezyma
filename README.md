@@ -39,12 +39,15 @@
 
 <p align="center">
   <a href="https://kezyma.github.io/">
-    <img src="https://kezyma.github.io/img/pluginfinder/ui-docs.png" width="48" />
+    <img src="https://kezyma.github.io/ico/favicon-32x32.png" />
   </a>
   <a href="https://www.nexusmods.com/users/20136784">
-    <img src="https://kezyma.github.io/img/pluginfinder/ui-nexus.png" width="48" />
+    <img src="https://kezyma.github.io/img/svg/nexus-svg.svg" />
   </a>
   <a href="https://www.patreon.com/KezymaOnline">
-    <img src="https://kezyma.github.io/img/pluginfinder/ui-patreon.png" width="48" />
+    <img src="https://kezyma.github.io/img/svg/patreon-svg.svg" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/Kezyma">
+    <img src="https://kezyma.github.io/img/svg/paypal-svg.svg" />
   </a>
 </p>
