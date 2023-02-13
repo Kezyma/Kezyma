@@ -17,6 +17,9 @@
   <a href="https://kezyma.github.io/?p=profilesync">
     <img src="https://raw.githubusercontent.com/Kezyma/kezyma.github.io/main/img/profilesync/thumbnail.jpg" width="175" />
   </a>
+  <a href="https://kezyma.github.io/?p=openmwplayer">
+    <img src="https://raw.githubusercontent.com/Kezyma/kezyma.github.io/main/img/openmwplayer/thumbnail.jpg" width="175" />
+  </a>
   <a href="https://www.nexusmods.com/morrowind/mods/48987">
     <img src="https://raw.githubusercontent.com/Kezyma/kezyma.github.io/main/img/uiremastered/thumbnail.jpg" width="175" />
   </a>
