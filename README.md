@@ -47,6 +47,9 @@
   <a href="https://www.nexusmods.com/users/20136784">
     <img src="https://kezyma.github.io/img/svg/nexus-svg.svg" />
   </a>
+  <a href="https://discord.com/invite/kPA3RrxAYz">
+    <img src="https://kezyma.github.io/img/svg/discord-svg.svg" />
+  </a>
   <a href="https://www.patreon.com/KezymaOnline">
     <img src="https://kezyma.github.io/img/svg/patreon-svg.svg" />
   </a>
